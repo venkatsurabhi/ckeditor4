@@ -53,6 +53,7 @@ cd ../..
 
 # Run the builder.
 echo ""
+echo "Start CKBuilder..."
 echo "Starting CKBuilder..."
 
 JAVA_ARGS=${ARGS// -t / } # Remove -t from args.
